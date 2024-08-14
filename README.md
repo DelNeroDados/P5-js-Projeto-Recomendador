@@ -28,6 +28,12 @@ dnuinadiuvnsdiveubvaevniervneiurnvieurnveirvneuvneuirvuervnieurvnuevneurnvueruir
 ### ferramentas:
 
 #### function preload()
+
+'''
+function preload()
+'''
+
+
 awswdwseincevcnervnerineiruneirungiuernvuiern
 
 #### map(index, 0, palavra.length, 0, 255);
